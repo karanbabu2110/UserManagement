@@ -1,4 +1,4 @@
-package com.core.usermanagement.service;
+package com.core.usermanagement.service.impl;
 
 import com.core.usermanagement.model.User;
 import com.core.usermanagement.repository.UserRepository;
